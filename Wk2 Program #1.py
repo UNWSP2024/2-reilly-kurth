@@ -1,3 +1,6 @@
+#Author: Reilly Kurth 
+#Date Written: 01/29/2025
+
 name= "Reilly Kurth"
 print("Your name:", name)
 
