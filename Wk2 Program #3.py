@@ -1,3 +1,6 @@
+#Author: Reilly Kurth 
+#Date Written: 01/29/2025
+
 item1 = float(input("Enter price of item 1: $"))
 item2 = float(input("Enter price of item 2: $"))
 item3 = float(input("Enter price of item 3: $"))
