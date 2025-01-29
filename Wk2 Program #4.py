@@ -1,3 +1,5 @@
+#Author: Reilly Kurth 
+#Date Written: 01/29/2025
 Celsius = float(input("Enter the temperature in Celsius: "))
 C = Celsius
 
