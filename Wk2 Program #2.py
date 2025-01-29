@@ -1,3 +1,6 @@
+#Author: Reilly Kurth 
+#Date Written: 01/29/2025
+
 age1 = 18
 age2 = 20
 age3= 17
